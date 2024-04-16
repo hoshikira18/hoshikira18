@@ -1,7 +1,3 @@
-<div align="center">
-    <img src="https://github.com/hoshikira18/hoshikira18/assets/81480245/5ecd7b27-3c5d-43e4-bb71-c5da45973596">
-</div>
-
 # Hi there, I'm [Trần Văn Khuyến](https://khuyentv.tech)
 
 - Hi there, I'm a web developer with experience in coding and frontend development. I'm passionate about creating innovative solutions. With my creativity, technical skills, and attention to detail, I'm confident I can help you find the best solutions for your needs.
@@ -17,6 +13,10 @@
 For detailed information about me, you can view my
 [resume](https://drive.google.com/file/d/1h6ML35e9I23Rj5-_0XfaD3t_u8jSrVsh/view?usp=sharing) or
 [my website](https://khuyentv.tech)
+
+<div align="center">
+    <img src="https://github.com/hoshikira18/hoshikira18/assets/81480245/5ecd7b27-3c5d-43e4-bb71-c5da45973596">
+</div>
 
 
 <!--
