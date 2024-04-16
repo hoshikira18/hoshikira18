@@ -1,6 +1,6 @@
-
-<iframe src="https://giphy.com/embed/M9gbBd9nbDrOTu1Mqx" width="382" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
-
+<div align="center">
+    <img src="https://github.com/hoshikira18/hoshikira18/assets/81480245/5ecd7b27-3c5d-43e4-bb71-c5da45973596">
+</div>
 
 # Hi there, I'm [Trần Văn Khuyến](https://khuyentv.tech)
 
