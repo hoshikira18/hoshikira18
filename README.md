@@ -14,6 +14,6 @@ Thinking about a new project, a problem to solve, or just want to connect?
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khuyen.dev183@gmail.com)👋
 
 For detailed information about me, you can view my
-[resume](https://drive.google.com/file/d/1h6ML35e9I23Rj5-_0XfaD3t_u8jSrVsh/view?usp=sharing) or
+[resume](https://drive.google.com/file/d/1qyoIVW0doNf08byfm0QyvygCXAYChqLx/view?usp=sharing) or
 [my website](https://khuyentv.tech)
 
