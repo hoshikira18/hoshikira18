@@ -1,10 +1,6 @@
 
 
 # Hi there, I'm [Trần Văn Khuyến](https://khuyentv.tech)
-
-- Hi there, I'm a web developer with experience in coding and frontend development. I'm passionate about creating innovative solutions. With my creativity, technical skills, and attention to detail, I'm confident I can help you find the best solutions for your needs.
-
-- The world of computers has always fascinated me.  Even as a child, I was drawn to the logic puzzles and problem-solving aspects of video games.  Taking things apart (much to my parents' chagrin) and figuring out how they worked  was a constant curiosity.  This natural inclination towards untangling complexities naturally led me to programming.
   
 Thinking about a new project, a problem to solve, or just want to connect?
 # Get in touch
